@@ -1,10 +1,10 @@
-# CCA Programming & Electronics, Fall 2016, Wednesday section
+# CCA Programming & Electronics, Fall 2016, Monday section
 
-This course repository contains homework assignments, useful guides, and code for "Programming & Electronics" at CCA, Fall 2016, Wednesday section.
+This course repository contains homework assignments, useful guides, and code for "Programming & Electronics" at CCA, Fall 2016, Monday section.
 
 Also included in this repository is the official [course syllabus](syllabus.pdf).
 
-### Week 1: Wednesday, September 7, 2016
+### Week 1: Monday, September 12, 2016
 
 Lecture:
 - Inspirational Videos
