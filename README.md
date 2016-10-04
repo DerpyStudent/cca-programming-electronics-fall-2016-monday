@@ -184,3 +184,24 @@ for (var i = 20; i <= 480; i = i + 10) {
 You'll explore a few more similar puzzles in the homework!
 
 [Homework for Week 3](hw/week3.md)
+
+### Week 4: Monday, October 3, 2016
+
+In class:
+
+- Homework review
+
+We reviewed the process we developed last week for thinking about a loop.
+
+- Arduino
+
+We installed the Arduino software, attached Arduino boards, and uploaded a
+program to blink the built in LED. We changed the speed of the blink by
+changing the parameter in the delay() function.
+
+- Servo motors
+
+We attached a servo motor to the Arduino and made the arm move back and forth
+using the "sweep" example.
+
+[Homework for Week 4](hw/week4.md)
