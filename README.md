@@ -205,3 +205,21 @@ We attached a servo motor to the Arduino and made the arm move back and forth
 using the "sweep" example.
 
 [Homework for Week 4](hw/week4.md)
+
+### Week 5: Monday, October 10, 2016
+
+In class:
+
+- Homework review
+
+We reviewed your questions about Arduino and electronics.
+
+- Arduino
+
+We tested our setup with the "blink" example, and then we connected a servo
+motor. First we used
+the "sweep" example to move the servo motor, and then we learned how to use a
+potentiometer and the "knob" example to control the position of the servo
+motor with the potentiometer.
+
+[Homework for Week 5](hw/week5.md)
