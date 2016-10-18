@@ -2,7 +2,7 @@
 
 This week's homework is to continue making progress on your collaborative project skull. By next week, you should have a functional prototype, ready for your partner to put the finishing touches on.
 
-In addition, to prepare for the upcoming in-class examination, complete this [practice quiz](practice-quiz.pdf). Instructions:
+In addition, to prepare for the upcoming in-class examination, download, print out, and complete this [practice quiz](practice-quiz.pdf). Instructions:
 
 - The in-class examination will be open-book, open-notes, but closed-computer. (No digital devices will be allowed.) The format will be very similar to this practice quiz.
 
