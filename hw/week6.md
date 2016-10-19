@@ -1,4 +1,4 @@
-### Homework 6 (due Sunday, October 23, 2016)
+### Homework 6 (due Friday, October 21, 2016)
 
 This week's homework is to continue making progress on your collaborative project skull. By next week, you should have a functional prototype, ready for your partner to put the finishing touches on.
 
@@ -8,4 +8,4 @@ In addition, to prepare for the upcoming in-class examination, download, print o
 
 - To complete the practice quiz, take as long as you need (though be aware that we'll give you 2 hours in class), see what you can do without your computer, and use whatever notes you plan to bring. This is also a good opportunity for you to flesh out your notes if you're missing anything.
 
-- Scan (or photograph with your cell phone) your completed practice quiz and [email it to us](mailto:jzamfirescupereira@cca.edu,mshiloh@cca.edu) (don't put this in github) by Sunday night, 11:59pm on October 23.
+- Scan (or photograph with your cell phone) your completed practice quiz and [email it to us](mailto:jzamfirescupereira@cca.edu,mshiloh@cca.edu) (don't put this in github) by Friday night, 11:59pm on October 21.
