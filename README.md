@@ -223,3 +223,15 @@ potentiometer and the "knob" example to control the position of the servo
 motor with the potentiometer.
 
 [Homework for Week 5](hw/week5.md)
+
+### Week 6: Monday, October 17, 2016
+
+In class:
+
+- Homework review
+- Practice with sensors
+   - Learning about LDRs and voltage dividers
+   - Using an LDR to control a servo.
+- Lab time
+
+[Homework for Week 6](hw/week6.md)
