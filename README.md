@@ -235,3 +235,13 @@ In class:
 - Lab time
 
 [Homework for Week 6](hw/week6.md)
+
+### Week 7: Monday, October 24, 2016
+
+In class:
+
+- Practice quiz review
+- Lab time
+
+[Homework for Week 7](hw/week7.md)
+
