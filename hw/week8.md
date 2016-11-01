@@ -1,4 +1,4 @@
-### Homework 7 (due Friday, November 4, 2016)
+### Homework 8 (due Friday, November 4, 2016)
 
 1. Final Project thoughts.
 

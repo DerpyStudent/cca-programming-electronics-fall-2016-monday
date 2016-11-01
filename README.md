@@ -245,3 +245,14 @@ In class:
 
 [Homework for Week 7](hw/week7.md)
 
+
+### Week 8: Monday, October 31, 2016
+
+In class:
+
+- Practice quiz review
+- Skulls project critique
+
+[Homework for Week 8](hw/week8.md)
+
+
