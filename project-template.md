@@ -20,7 +20,7 @@ A brief discussion of what you anticipate will be the hardest and most time-cons
 
 ## Timeline
 
-What parts of the project do you anticipate you will complete in each of the next 5 weeks?
+What parts of the project do you anticipate you will complete in each of the next 5 weeks? Your goal is to solve the scary problems as quickly as possible! 
 
 - Week 1: Write proposal
 - Week 2: 
