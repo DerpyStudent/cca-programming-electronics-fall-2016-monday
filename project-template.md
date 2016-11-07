@@ -27,3 +27,7 @@ What parts of the project do you anticipate you will complete in each of the nex
 - Week 3:
 - Week 4:
 - Week 5: Present!
+
+## References and link
+
+Tutorials, comments, videos, magazine articles - Anything you found that helps you understand your project 
