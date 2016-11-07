@@ -1,6 +1,6 @@
 # Your Project Title Here
 
-One-sentence summary of your project goes here.
+One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
 
 ## Summary
 
