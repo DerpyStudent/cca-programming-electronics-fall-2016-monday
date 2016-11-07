@@ -40,8 +40,8 @@ Finally, building a web interface can also be quite complicated, so I expect tha
 
 What parts of the project do you anticipate you will complete in each of the next 5 weeks?
 
-- Week 1: Write proposal.
-- Week 2: Acquire hardware components: relay, current sensor, wifi, and build a prototype circuit with those pieces.
+- Week 1: Write proposal, borrow a WiFi Arduino, make sure I can get WiFi to work
+- Week 2: Acquire hardware components: relay, current sensor, WiFi, and build a prototype circuit with those pieces.
 - Week 3: Build a first version of the software that displays current power usage and an on/off switch.
 - Week 4: Integrate all the components together and debug.
 - Week 5: Present complete project.
