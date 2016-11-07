@@ -22,6 +22,10 @@ On the software side, there's a web page that shows you the power consumption ov
 - A graphing system, to draw out historical power usage data. (OUTPUT)
 - A few buttons to control the on/off state of the devices. (INPUT)
 
+### Block Diagram
+
+![Smart plug block diagram](img/smart-plug-block-diagram.png)
+
 ## Challenges
 
 I anticipate working with 120V to be challenging and require special consideration as the failure modes are potentially lethal. I plan to research best practices with working on high-voltage projects and will apply those practices to my work.
