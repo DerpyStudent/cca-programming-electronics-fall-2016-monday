@@ -273,3 +273,5 @@ We've also created a [sample project proposal](sample-proposal.md) for your peru
 Your proposal should be thoughtful, complete, and should take into consideration the feedback you received from us and your classmates. You can always modify what you're doing later on, but your proposal should describe a complete project.
 
 The final project is your opportunity to put to work what you've learned so far in class, and to build the skills you're most interested in taking forward with you into your career. *Each assignment is in the project sequence is required, so put in the time to ensure that each is complete and well-considered!*
+
+[Homework for Week 9](hw/week9.md)
