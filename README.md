@@ -261,6 +261,7 @@ In class:
 In class:
 
 - Quiz!
+- Discuss project ideas
 
 #### Final Project
 
